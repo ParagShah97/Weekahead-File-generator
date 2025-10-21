@@ -1,0 +1,8 @@
+pydantic
+streamlit
+langgraph
+langchain
+python-dotenv
+langchain-openai
+ipykernel
+convertdate
